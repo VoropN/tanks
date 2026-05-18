@@ -1,0 +1,6 @@
+{
+  "name": "Tank Base Defender",
+  "description": "A top-down tank game where you must defend a central base from waves of enemies. Includes water, forests, and destructible walls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
